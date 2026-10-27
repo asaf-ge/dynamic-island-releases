@@ -7,8 +7,7 @@ A Dynamic Island for Windows: music, calls, timers, dictation, meeting notes and
 1. **[Download the setup](https://github.com/asaf-ge/dynamic-island-releases/releases/latest/download/DynamicIsland-Setup.exe)** (always the newest version).
 2. Run it. It installs for your Windows account only (no admin rights) and needs nothing else.
 3. Windows may say it "protected your PC" because the setup isn't code-signed: click **More info › Run anyway**.
-4. **Sign up** with your name, email and a password, and type the code we email you.
-   Dynamic Island is invite-only, so it opens once your account is approved. After that you stay signed in.
+4. **Sign up** once with your name, email and a password. You stay signed in.
 
 Updates install by themselves when the PC is idle. Needs Windows 10 (2004 or later) or Windows 11, 64-bit.
 
